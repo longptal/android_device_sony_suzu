@@ -19,6 +19,9 @@ include device/sony/loire-common/BoardConfigCommon.mk
 
 DEVICE_PATH := device/sony/suzu
 
+# Display
+TARGET_SCREEN_DENSITY := 480
+
 # Kernel
 TARGET_KERNEL_CONFIG := loire_suzu_defconfig
 

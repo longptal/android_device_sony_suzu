@@ -22,8 +22,6 @@ PRODUCT_AAPT_CONFIG := normal
 PRODUCT_AAPT_PREBUILT_DPI := xxhdpi xhdpi hdpi
 PRODUCT_AAPT_PREF_CONFIG := xxhdpi
 
-PRODUCT_PROPERTY_OVERRIDES += ro.sf.lcd_density=480
-
 # Device specific overlays
 DEVICE_PACKAGE_OVERLAYS += $(LOCAL_PATH)/overlay
 
