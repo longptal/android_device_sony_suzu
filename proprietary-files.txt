@@ -32,8 +32,8 @@ odm/lib/libmmcamera_imx214.so|db3d6f28806092ebc220ac03e3d605ba4b2339fd
 vendor/bin/qns
 
 # Touchscreen
-etc/firmware/touch_module_id_0x90.img
-etc/firmware/touch_module_id_0x91.img
-etc/firmware/touch_module_id_0x92.img
-etc/firmware/touch_module_id_0x93.img
-etc/firmware/touch_module_id_0x94.img
+system/etc/firmware/touch_module_id_0x90.img
+system/etc/firmware/touch_module_id_0x91.img
+system/etc/firmware/touch_module_id_0x92.img
+system/etc/firmware/touch_module_id_0x93.img
+system/etc/firmware/touch_module_id_0x94.img
