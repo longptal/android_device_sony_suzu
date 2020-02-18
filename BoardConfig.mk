@@ -29,5 +29,8 @@ TARGET_KERNEL_CONFIG := loire_suzu_defconfig
 BOARD_SYSTEMIMAGE_PARTITION_SIZE := 7843348480
 BOARD_USERDATAIMAGE_PARTITION_SIZE := 22225600512
 
+# Properties
+TARGET_VENDOR_PROP += $(DEVICE_PATH)/vendor.prop
+
 # Inherit from the proprietary version
 include vendor/sony/suzu/BoardConfigVendor.mk
