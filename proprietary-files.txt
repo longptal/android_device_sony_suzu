@@ -9,6 +9,25 @@ etc/acdbdata/Sony/Sony_loire_Hdmi_cal.acdb
 etc/acdbdata/Sony/Sony_loire_Headset_cal.acdb
 etc/acdbdata/Sony/Sony_loire_Speaker_cal.acdb
 
+# Camera actuators - from SW_BINARIES_FOR_XPERIA_ANDROID_9.0_2.3.2_V9_LOIRE
+vendor/lib/libactuator_lc898217xc.so|7b614f9eabf31eadf924858569d15dd80b5ba897
+
+# Camera chromatix - from SW_BINARIES_FOR_XPERIA_ANDROID_9.0_2.3.2_V9_LOIRE
+odm/lib/libchromatix_imx214_common.so|98b5c46d1cdf8602187a04a1acb8f762fed28c28
+odm/lib/libchromatix_imx214_cpp_liveshot.so|e48c6ac5e3c17855e8311bb5be2b9552c31b84da
+odm/lib/libchromatix_imx214_cpp_preview.so|36ab1f525e172b022df71102106ce6e92053ab63
+odm/lib/libchromatix_imx214_cpp_snapshot.so|09804ab96ecca3008fc62499d70785ca16c58727
+odm/lib/libchromatix_imx214_cpp_video.so|08047b54ad3fda9783475620363871a3445438dc
+odm/lib/libchromatix_imx214_default_preview_lc898217.so|cc766d30be02c414d39f9a9683ebb61d5ad9c540
+odm/lib/libchromatix_imx214_default_video_lc898217.so|f339263addc556eee51066e758dea9c51a8e57e0
+odm/lib/libchromatix_imx214_postproc.so|6a715de11143e541afbc2a4aee1d98e63aedf598
+odm/lib/libchromatix_imx214_preview.so|3a3d505e5ada415efaaa23a798546a6c1b875694
+odm/lib/libchromatix_imx214_snapshot.so|a63c02448e062c43bf5adf2f7c295877e3dab014
+odm/lib/libchromatix_imx214_video.so|14044771a1c18fde91f02879c8793df7a12b5f03
+
+# Camera sensors - from SW_BINARIES_FOR_XPERIA_ANDROID_9.0_2.3.2_V9_LOIRE
+odm/lib/libmmcamera_imx214.so|db3d6f28806092ebc220ac03e3d605ba4b2339fd
+
 # QNS
 vendor/bin/qns
 
