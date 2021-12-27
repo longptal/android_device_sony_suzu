@@ -1,13 +1,13 @@
 # All unpinned blobs below are extracted from F5122_Customized CE1_1302-5672_34.4.A.2.118_R1E
 
 # Audio ACDB
-etc/acdbdata/Sony/Sony_loire_Bluetooth_cal.acdb
-etc/acdbdata/Sony/Sony_loire_General_cal.acdb
-etc/acdbdata/Sony/Sony_loire_Global_cal.acdb
-etc/acdbdata/Sony/Sony_loire_Handset_cal.acdb
-etc/acdbdata/Sony/Sony_loire_Hdmi_cal.acdb
-etc/acdbdata/Sony/Sony_loire_Headset_cal.acdb
-etc/acdbdata/Sony/Sony_loire_Speaker_cal.acdb
+etc/acdbdata/Sony/Sony_loire_Bluetooth_cal.acdb:vendor/etc/acdbdata/Sony_loire_Bluetooth_cal.acdb
+etc/acdbdata/Sony/Sony_loire_General_cal.acdb:vendor/etc/acdbdata/Sony_loire_General_cal.acdb
+etc/acdbdata/Sony/Sony_loire_Global_cal.acdb:vendor/etc/acdbdata/Sony_loire_Global_cal.acdb
+etc/acdbdata/Sony/Sony_loire_Handset_cal.acdb:vendor/etc/acdbdata/Sony_loire_Handset_cal.acdb
+etc/acdbdata/Sony/Sony_loire_Hdmi_cal.acdb:vendor/etc/acdbdata/Sony_loire_Hdmi_cal.acdb
+etc/acdbdata/Sony/Sony_loire_Headset_cal.acdb:vendor/etc/acdbdata/Sony_loire_Headset_cal.acdb
+etc/acdbdata/Sony/Sony_loire_Speaker_cal.acdb:vendor/etc/acdbdata/Sony_loire_Speaker_cal.acdb
 
 # Camera actuators - from SW_BINARIES_FOR_XPERIA_ANDROID_9.0_2.3.2_V9_LOIRE
 vendor/lib/libactuator_lc898217xc.so|7b614f9eabf31eadf924858569d15dd80b5ba897
