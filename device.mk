@@ -52,7 +52,7 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/configs/idc/clearpad.idc:$(TARGET_COPY_OUT_VENDOR)/usr/idc/clearpad.idc
 
 # USB PID
-PRODUCT_PROPERTY_OVERRIDES += ro.usb.pid_suffix=1E0
+PRODUCT_PROPERTY_OVERRIDES += ro.vendor.usb.pid_suffix=1E0
 
 # Inherit from loire-common
 $(call inherit-product, device/sony/loire-common/platform.mk)
