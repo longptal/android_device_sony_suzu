@@ -1,0 +1,8 @@
+# All unpinned blobs below are extracted from F5122_Customized CE1_1302-5672_34.4.A.2.118_R1E
+
+# Touchscreen
+system/etc/firmware/touch_module_id_0x90.img:recovery/root/vendor/firmware/touch_module_id_0x90.img
+system/etc/firmware/touch_module_id_0x91.img:recovery/root/vendor/firmware/touch_module_id_0x91.img
+system/etc/firmware/touch_module_id_0x92.img:recovery/root/vendor/firmware/touch_module_id_0x92.img
+system/etc/firmware/touch_module_id_0x93.img:recovery/root/vendor/firmware/touch_module_id_0x93.img
+system/etc/firmware/touch_module_id_0x94.img:recovery/root/vendor/firmware/touch_module_id_0x94.img
