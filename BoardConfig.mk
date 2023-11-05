@@ -13,7 +13,7 @@ DEVICE_PATH := device/sony/suzu
 TARGET_SCREEN_DENSITY := 420
 
 # Kernel
-TARGET_KERNEL_CONFIG := loire_suzu_defconfig
+TARGET_KERNEL_CONFIG += vendor/sony/suzu.config
 
 # Partition sizes
 BOARD_SYSTEMIMAGE_PARTITION_SIZE := 7843348480
